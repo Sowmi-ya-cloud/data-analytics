@@ -78,34 +78,49 @@ df.isnull().sum()                              # checking missing values
 Used the following functions to understand the distribution of numerical columns such as Price, Quantity, and Total Sales:
 
 Mean: df.mean()
+
 Median: df.median()
+
 Mode: df.mode()
+
 Standard Deviation: df.std()
 
 These measures helped identify the average sales values and understand the spread of the data.
 
 ✅ Trend Analysis
+
 Converted the Date column using pd.to_datetime().
+
 Used groupby('Date') to analyze how total sales changed over time.
+
 Observed monthly sales patterns and peak sales periods.
 
 ✅ Category Analysis
+
 Grouped the data by Category to determine which categories generated the highest sales.
+
 Compared the contribution of each category to overall revenue.
 
 ✅ Product Analysis
+
 Analyzed sales performance of different products.
+
 Identified top-selling products based on total sales and quantity sold.
 
 ✅ Location Analysis
+
 Grouped data by Location to compare regional sales performance.
+
 Identified locations contributing the highest revenue.
 
 ✅ Payment Method Analysis
+
 Examined the distribution of various payment methods.
+
 Determined the most frequently used payment method among customers.
 
 ✅ Order Status Analysis
+
 Analyzed the status of orders to understand the proportion of completed, pending, and cancelled orders.
 
 ```bash
@@ -140,7 +155,7 @@ The dashboard contains:
   •	Pie chart: Shows Death share by regions
   •	KPI Cards: Shows Total Confirmed, Total Recovered, Total Deaths.
 
- <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f7cb054f-04f1-4461-8de7-21d0f6b751a2" />
+ <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5b4a3e85-fa7b-447b-badc-849bcb3e86dd" />
 
 ## 📊 Results(screenshots) & Insights
 
@@ -195,25 +210,29 @@ The dashboard contains:
 
 ## 📝 Challenges Faced
 
-✅ Understanding Correlation Meaning
+✅ Understanding GroupBy Operations
 
-•	At first, it was confusing to interpret the correlation values.
+Initially, it was challenging to summarize data using groupby functions.
 
-•	I took time to learn that higher positive values mean strong relationships.
-     
-✅ Power BI dashboard creation:
+Practiced aggregation techniques to better understand trends and patterns.
 
-•	I faced some confusion while designing the dashboard, especially in choosing the right colours and deciding where each chart should be placed.
+✅ Power BI Dashboard Creation
 
-•	To overcome this, I looked at a few sample dashboards. This helped me understand how to arrange the visuals in a clean and logical flow.
+Faced difficulty in selecting suitable charts and arranging visuals.
+
+Referred to sample dashboards to improve dashboard design and readability.
 
 ## ✍️ Reflection
 
-•	Understood cloud storage and dataset versioning using AWS S3.
-  
-•	Became confident with Pandas, NumPy, Matplotlib and Seaborn.
-  
-•	Learned how to create a clean and meaningful analytics Power BI dashboard.
+•      Strengthened data cleaning and preprocessing skills using Pandas and NumPy.
+
+•      Improved understanding of exploratory data analysis techniques.
+
+•      Learned to use SQL queries for extracting business insights.
+
+•      Developed interactive Power BI dashboards for visualizing KPIs and trends.
+
+•      Gained practical experience in transforming raw sales data into meaningful business insights.
 
 
 
