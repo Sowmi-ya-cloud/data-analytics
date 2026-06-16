@@ -156,7 +156,7 @@ The dashboard contains:
   •	KPI Cards: Shows of total sales and sales target by Date.
   •     Tree Map : Shows sum of quantity by customer name.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5c1ab641-8ea7-4ad4-bdd1-5d36384b13d5" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/5c1ab641-8ea7-4ad4-bdd1-5d36384b13d5" />
 
 ✅ Insights
 
