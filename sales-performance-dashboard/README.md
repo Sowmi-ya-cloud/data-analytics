@@ -150,53 +150,13 @@ status_count = df['Status'].value_counts()
 
 The dashboard contains:
 
-  •	Bar chart: Shows Confirmed cases by Country
-  •	Line graph: Shows Spread trend by month
-  •	Pie chart: Shows Death share by regions
-  •	KPI Cards: Shows Total Confirmed, Total Recovered, Total Deaths.
+  •	Bar chart: Shows Total sales by Category
+  •	Line Chart: Shows Total sales by month
+  •	Pie chart: Shows Total sales by Product
+  •	KPI Cards: Shows of total sales and sales target by Date.
+  •     Tree Map : Shows sum of quantity by customer name.
 
- <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5b4a3e85-fa7b-447b-badc-849bcb3e86dd" />
-
-## 📊 Results(screenshots) & Insights
-
-### ✅ Screenshots
-
-### Libraries imported
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7ae08692-52d4-4db8-bba5-337ad76ef06f" />
-
-### Inspect data
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c703782c-dabf-4537-801f-e9787a3c2b37" />
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2cf2203a-222b-4ead-8e77-d1e8da9dfd00" />
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/074e2d0c-52ee-4be1-b915-bd3ea2217abe" />
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/6b44b088-d5f9-4f67-a2ee-d1edabfe7bf7" />
-
-### Checked duplicates
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/adeec178-6758-4c37-ad06-b9e0a67224dd" />
-
-### Finding missing values
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f64ef1e6-9f33-469e-954a-e43b34329f35" />
-
-### Replaced column name
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9896a0c5-8efd-49de-8c6c-f5eb5c94d4b6" />
-
-### EDA
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/73622327-8d2f-4f50-ac4f-5f8c8ad6d76a" />
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/db514425-ea2f-4d41-bc84-40873aaa8ab0" />
-
-### Trend Analysis
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c3a7996e-7263-4336-ac71-4dca2d54f5e3" />
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5c1ab641-8ea7-4ad4-bdd1-5d36384b13d5" />
 
 ✅ Insights
 
