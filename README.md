@@ -75,53 +75,53 @@ df.isnull().sum()                              # checking missing values
 
 ✅ Calculated Statistical Measures
 
-Used the following functions to understand the distribution of numerical columns such as Price, Quantity, and Total Sales:
+•      Used the following functions to understand the distribution of numerical columns such as Price, Quantity, and Total Sales:
 
-Mean: df.mean()
+          Mean: df.mean()
 
-Median: df.median()
+          Median: df.median()
 
-Mode: df.mode()
+          Mode: df.mode()
 
-Standard Deviation: df.std()
+          Standard Deviation: df.std()
 
-These measures helped identify the average sales values and understand the spread of the data.
+•      These measures helped identify the average sales values and understand the spread of the data.
 
 ✅ Trend Analysis
 
-Converted the Date column using pd.to_datetime().
+•     Converted the Date column using pd.to_datetime().
 
-Used groupby('Date') to analyze how total sales changed over time.
+•     Used groupby('Date') to analyze how total sales changed over time.
 
-Observed monthly sales patterns and peak sales periods.
+•     Observed monthly sales patterns and peak sales periods.
 
 ✅ Category Analysis
 
-Grouped the data by Category to determine which categories generated the highest sales.
+•      Grouped the data by Category to determine which categories generated the highest sales.
 
-Compared the contribution of each category to overall revenue.
+•      Compared the contribution of each category to overall revenue.
 
 ✅ Product Analysis
 
-Analyzed sales performance of different products.
+•      Analyzed sales performance of different products.
 
-Identified top-selling products based on total sales and quantity sold.
+•      Identified top-selling products based on total sales and quantity sold.
 
 ✅ Location Analysis
 
-Grouped data by Location to compare regional sales performance.
+•      Grouped data by Location to compare regional sales performance.
 
-Identified locations contributing the highest revenue.
+•      Identified locations contributing the highest revenue.
 
 ✅ Payment Method Analysis
 
-Examined the distribution of various payment methods.
+•      Examined the distribution of various payment methods.
 
-Determined the most frequently used payment method among customers.
+•      Determined the most frequently used payment method among customers.
 
 ✅ Order Status Analysis
 
-Analyzed the status of orders to understand the proportion of completed, pending, and cancelled orders.
+       Analyzed the status of orders to understand the proportion of completed, pending, and cancelled orders.
 
 ```bash
 Python code:
@@ -200,27 +200,33 @@ The dashboard contains:
 
 ✅ Insights
 
-•	Median deaths are just 2, but average is around 884. So, most regions had very low deaths.
+•	Electronics category recorded the highest sales.
 
-•	The dataset covers many different global regions because the latitude and longitude values spread widely.
+•       Some products performed better than others in terms of revenue.
 
-•	The most commonly repeated region in the dataset belongs to China, which makes sense because initial COVID reporting started there.
+•       Sales varied across different locations.
 
-•	Confirmed vs Deaths (0.91) - strong positive relationship. More cases resulted in more deaths.
+•       Most customers preferred online payment methods.
+
+•       The majority of orders were successfully completed.
+
+•       Sales showed changes over time, indicating different customer demand patterns.
+
+•       Higher quantities sold resulted in higher total sales.
 
 ## 📝 Challenges Faced
 
 ✅ Understanding GroupBy Operations
 
-Initially, it was challenging to summarize data using groupby functions.
+• Initially, it was challenging to summarize data using groupby functions.
 
-Practiced aggregation techniques to better understand trends and patterns.
+• Practiced aggregation techniques to better understand trends and patterns.
 
 ✅ Power BI Dashboard Creation
 
-Faced difficulty in selecting suitable charts and arranging visuals.
+• Faced difficulty in selecting suitable charts and arranging visuals.
 
-Referred to sample dashboards to improve dashboard design and readability.
+• Referred to sample dashboards to improve dashboard design and readability.
 
 ## ✍️ Reflection
 
