@@ -89,7 +89,7 @@ sales.duplicated().sum()
 
 ---
 
-<img width="800" height="400" alt="WhatsApp Image 2026-06-16 at 5 14 49 PM" src="https://github.com/user-attachments/assets/e273aa10-296f-4de5-9c33-10571cf04141" />
+<img width="400" height="400" alt="WhatsApp Image 2026-06-16 at 5 14 49 PM" src="https://github.com/user-attachments/assets/e273aa10-296f-4de5-9c33-10571cf04141" />
 
 ### Step 3: Exploratory Data Analysis (EDA)
 
