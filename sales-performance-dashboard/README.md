@@ -159,6 +159,8 @@ The dashboard contains:
 <img width="800" height="450" alt="WhatsApp Image 2026-06-16 at 4 47 49 PM" src="https://github.com/user-attachments/assets/1eceece3-b216-4f9c-a124-322c3848df49" />
 
 
+
+
 ✅ Insights
 
 •	Electronics category recorded the highest sales.
