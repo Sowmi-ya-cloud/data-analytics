@@ -6,23 +6,23 @@
 
 ## 🏗️ Architecture Diagram
 
-Mobile Shop Dataset
+                     Mobile Shop Dataset
 
-  ↓
+                             ↓
 
-Data Cleaning (Python)
+                    Data Cleaning (Python)
 
-↓
+                             ↓
 
-Exploratory Data Analysis (EDA)
+                 Exploratory Data Analysis (EDA)
 
-↓
+                             ↓
 
-Power BI Dashboard
+                      Power BI Dashboard
 
-↓
+                             ↓
 
-Business Insights
+                      Business Insights
 
 ## 📂 Dataset Overview
 
@@ -64,7 +64,7 @@ mobile_info.head()                              # Inspect data
 
 ---
 
-<img width="800" height="450" alt="WhatsApp Image 2026-06-16 at 5 13 34 PM" src="https://github.com/user-attachments/assets/32a26372-48b2-4a4d-9c93-80cf85da7549" />
+<img width="800" height="400" alt="WhatsApp Image 2026-06-16 at 5 13 34 PM" src="https://github.com/user-attachments/assets/32a26372-48b2-4a4d-9c93-80cf85da7549" />
 
 ### Step 2: Data Cleaning
 
@@ -120,6 +120,9 @@ mode = {
 ✅ **Data Spread — Std Dev, Variance, Min, Max, Range**
 
 Analyzed spread of RAM, ROM, battery capacity, display size, and sales price across all tables.
+
+<img width="800" height="450" alt="WhatsApp Image 2026-06-16 at 5 23 34 PM" src="https://github.com/user-attachments/assets/1155fa46-bebf-4fa0-aaea-637e4528ecf8" />
+
 
 ✅ **Correlation & Relationship Analysis**
 
