@@ -76,7 +76,7 @@ camera.isnull().sum()
 display.isnull().sum()
 sales.isnull().sum()
 ```
-<img width="800" height="434" alt="WhatsApp Image 2026-06-16 at 5 14 17 PM" src="https://github.com/user-attachments/assets/5cfe5706-e3c7-4ec8-a233-e899883ba027" />
+<img width="800" height="400" alt="WhatsApp Image 2026-06-16 at 5 14 17 PM" src="https://github.com/user-attachments/assets/5cfe5706-e3c7-4ec8-a233-e899883ba027" />
 
 ✅ **Removed Duplicate Values** — Verified no repeated rows across all tables
 
@@ -105,7 +105,7 @@ mean_median = {
     "sales": sales[['sales_price','discount_percent','sales']].agg(['mean','median'])
 }
 ```
-<img width="800" height="494" alt="WhatsApp Image 2026-06-16 at 5 15 42 PM" src="https://github.com/user-attachments/assets/1a96eda7-b3a1-45a5-be80-da7e891dcafd" />
+<img width="800" height="400" alt="WhatsApp Image 2026-06-16 at 5 15 42 PM" src="https://github.com/user-attachments/assets/1a96eda7-b3a1-45a5-be80-da7e891dcafd" />
 
 ✅ **Mode Analysis**
 
@@ -138,7 +138,7 @@ import matplotlib.pyplot as plt
 sns.heatmap(sales[['sales_price','discount_percent','sales']].corr(),
             annot=True, cmap='coolwarm')
 ```
-<img width="800" height="451" alt="WhatsApp Image 2026-06-16 at 5 21 03 PM" src="https://github.com/user-attachments/assets/94cd463a-b02a-4b96-bdcd-75d825c445de" />
+<img width="800" height="400" alt="WhatsApp Image 2026-06-16 at 5 21 03 PM" src="https://github.com/user-attachments/assets/94cd463a-b02a-4b96-bdcd-75d825c445de" />
 
 ✅ **Brand & Screen Size Distribution**
 
