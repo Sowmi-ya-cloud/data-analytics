@@ -151,15 +151,20 @@ status_count = df['Status'].value_counts()
 The dashboard contains:
 
   •	Bar chart: Shows Total sales by Category
+  
   •	Line Chart: Shows Total sales by month
+
   •	Pie chart: Shows Total sales by Product
-  •	KPI Cards: Shows of total sales and sales target by Date.
+  
+  •	KPI Cards: Shows of total sales and sales target by Date
+  
   •     Tree Map : Shows sum of quantity by customer name.
 
 <img width="800" height="450" alt="WhatsApp Image 2026-06-16 at 4 47 49 PM" src="https://github.com/user-attachments/assets/1eceece3-b216-4f9c-a124-322c3848df49" />
 
 
 
+📊 Results & Insights
 
 ✅ Insights
 
